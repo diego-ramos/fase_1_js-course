@@ -44,8 +44,8 @@
 
 ## 🛠 Configuración del Entorno
 
-### 1. Descargar e Instalar [Google Antigravity](https://antigravity.google.com)
-Para trabajar en este curso utilizaremos **[Google Antigravity](https://antigravity.google.com)** (o el entorno recomendado por tu instructor).
+### 1. Descargar e Instalar [Google Antigravity](https://antigravity.google)
+Para trabajar en este curso utilizaremos **[Google Antigravity](https://antigravity.google)** (o el entorno recomendado por tu instructor).
 1. Descarga la extensión o el instalador desde el sitio oficial (o marketplace de VS Code).
 2. Sigue las instrucciones de instalación para tu sistema operativo.
 3. Asegúrate de tener Node.js instalado si el entorno lo requiere.
