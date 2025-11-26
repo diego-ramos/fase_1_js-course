@@ -60,3 +60,11 @@ Este proyecto es un **Template**. Para empezar a trabajar:
    git clone https://github.com/TU_USUARIO/mi-curso-js.git
    ```
 5. ¡Listo! Ya puedes editar los archivos y resolver los ejercicios semana a semana.
+
+### 3. Usar los Templates de Issues
+Para llevar un seguimiento de tu progreso semana a semana:
+1. Ve a la pestaña **"Issues"** de tu repositorio en GitHub.
+2. Haz clic en **"New Issue"**.
+3. Verás los templates para cada semana (Semana 1, Semana 2, etc.).
+4. Haz clic en **"Get started"** en la semana correspondiente.
+5. Se creará un issue con el checklist de lecturas y ejercicios. ¡Ve marcándolos a medida que avances!
