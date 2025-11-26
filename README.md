@@ -39,3 +39,24 @@
 - **[Semana 2](./semana2/README.md):** Condicionales, Inputs y DOM.
 - **[Semana 3](./semana3/README.md):** Arrays y Bucles.
 - **[Semana 4](./semana4/README.md):** Objetos y Proyecto Final (Wallet Simulada).
+
+---
+
+## 🛠 Configuración del Entorno
+
+### 1. Descargar e Instalar Google Antigravity
+Para trabajar en este curso utilizaremos **Google Antigravity** (o el entorno recomendado por tu instructor).
+1. Descarga la extensión o el instalador desde el sitio oficial (o marketplace de VS Code).
+2. Sigue las instrucciones de instalación para tu sistema operativo.
+3. Asegúrate de tener Node.js instalado si el entorno lo requiere.
+
+### 2. Crear tu propio Repositorio
+Este proyecto es un **Template**. Para empezar a trabajar:
+1. Ve a la parte superior de este repositorio en GitHub.
+2. Haz clic en el botón verde **"Use this template"** > **"Create a new repository"**.
+3. Dale un nombre a tu nuevo repositorio (ej: `mi-curso-js`).
+4. Clona tu nuevo repositorio en tu computadora usando Google Antigravity o tu terminal:
+   ```bash
+   git clone https://github.com/TU_USUARIO/mi-curso-js.git
+   ```
+5. ¡Listo! Ya puedes editar los archivos y resolver los ejercicios semana a semana.
