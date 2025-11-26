@@ -42,6 +42,15 @@
 
 ---
 
+## 🚀 Proyecto Paralelo: Mi Crypto-Álbum Eterno
+Además de los ejercicios semanales, construirás un proyecto incremental: **[Ir al Proyecto](./proyect_album_eterno/README.md)**.
+- **Semana 1:** Estructura HTML.
+- **Semana 2:** Lógica del botón.
+- **Semana 3:** Arrays y Loops.
+- **Semana 4:** Grid visual final.
+
+---
+
 ## 🛠 Configuración del Entorno
 
 ### 1. Descargar e Instalar [Google Antigravity](https://antigravity.google)
